@@ -2,7 +2,9 @@
 // src: "images/photo1.jpg" jaisa path (images/ folder mein photo rakho)
 // Neeche demo ke liye online photos hain, inhe apni photos se badal do.
 const photos = [
+    { src: "Screenshot_20261120
 
+092404.jpg", title: "Meri photo", tag: "Travel" }
   { src: "https://picsum.photos/id/1084/800/1000", title: "Glacier", tag: "Travel" }
 ];
 
