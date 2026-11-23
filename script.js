@@ -6,6 +6,15 @@ const photos = [
 
 092404.jpg", title: "Meri photo", tag: "Travel" }
   { src: "https://picsum.photos/id/1084/800/1000", title: "Glacier", tag: "Travel" }
+  { src: "https://picsum.photos/id/1015/800/1000", title: "River valley", tag: "Nature" },
+  { src: "https://picsum.photos/id/1011/800/600", title: "Canoe", tag: "Nature" },
+  { src: "https://picsum.photos/id/1031/800/1100", title: "Street", tag: "City" },
+  { src: "https://picsum.photos/id/1040/800/700", title: "Castle", tag: "Travel" },
+  { src: "https://picsum.photos/id/1043/800/1000", title: "Forest path", tag: "Nature" },
+  { src: "https://picsum.photos/id/1056/800/600", title: "Skyline", tag: "City" },
+  { src: "https://picsum.photos/id/1067/800/900", title: "Mountains", tag: "Travel" },
+  { src: "https://picsum.photos/id/1074/800/650", title: "Lion", tag: "Animals" },
+  { src: "https://picsum.photos/id/1084/800/1000", title: "Glacier", tag: "Travel" }
 ];
 
 const gallery = document.getElementById("gallery");
