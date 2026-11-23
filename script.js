@@ -1,11 +1,4 @@
-// ✏️ Apni photos yahan add karo.
-// src: "images/photo1.jpg" jaisa path (images/ folder mein photo rakho)
-// Neeche demo ke liye online photos hain, inhe apni photos se badal do.
 const photos = [
-    { src: "Screenshot_20261120
-
-092404.jpg", title: "Meri photo", tag: "Travel" }
-  { src: "https://picsum.photos/id/1084/800/1000", title: "Glacier", tag: "Travel" }
   { src: "https://picsum.photos/id/1015/800/1000", title: "River valley", tag: "Nature" },
   { src: "https://picsum.photos/id/1011/800/600", title: "Canoe", tag: "Nature" },
   { src: "https://picsum.photos/id/1031/800/1100", title: "Street", tag: "City" },
